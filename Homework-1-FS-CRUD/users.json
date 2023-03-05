@@ -1,0 +1,72 @@
+[
+  {
+    "username": "user1",
+    "password": "password1",
+    "age": "1",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user2",
+    "password": "password2",
+    "age": "33",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user3",
+    "password": "password3",
+    "age": "1",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user4",
+    "password": "password4",
+    "age": "15",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user5",
+    "password": "password5",
+    "age": "28",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user6",
+    "password": "password6",
+    "age": "28",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user7",
+    "password": "password7",
+    "age": "16",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user8",
+    "password": "password8",
+    "age": "29",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "user9",
+    "password": "password9",
+    "age": "47",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.881Z"
+  },
+  {
+    "username": "Ivan",
+    "password": "password",
+    "age": "25",
+    "isActive": true,
+    "dateCreated": "2023-03-05T19:05:01.884Z"
+  }
+]
