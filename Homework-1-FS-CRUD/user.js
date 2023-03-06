@@ -2,11 +2,11 @@
 
 class User {
   constructor(username, password, age, isActive) {
-    (this.username = username),
-      (this.password = password),
-      (this.age = age),
-      (this.isActive = isActive),
-      (this.dateCreated = new Date());
+    this.username = username;
+    this.password = password;
+    this.age = age;
+    this.isActive = isActive;
+    this.dateCreated = new Date();
   }
 }
 
