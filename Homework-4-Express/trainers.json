@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Ivo",
+    "lastName": "Kostovski",
+    "email": "ivo.kostovski@gmail.com",
+    "isCurrentlyTeaching": true,
+    "timeEmployedAsAWebDev": "5+ years",
+    "coursesFinished": 10,
+    "isALegend": true,
+    "id": "0ea65953-4be1-49ea-9e1f-76a51fffb3ca"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Jamandilovski",
+    "email": "jamandilovski@gmail.com",
+    "isCurrentlyTeaching": true,
+    "timeEmployedAsAWebDev": "3+ years",
+    "coursesFinished": 7,
+    "isALegend": true,
+    "id": "0286e347-d696-440a-bce9-d7c13cfbb519"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Apostolovski",
+    "email": "ivan.apostolovski@gmail.com",
+    "isCurrentlyTeaching": false,
+    "timeEmployedAsAWebDev": "0 years",
+    "coursesFinished": 0.5,
+    "isALegend": false,
+    "id": "fed90bb7-369d-403a-9bbb-b205d6c0e4b6"
+  }
+]
